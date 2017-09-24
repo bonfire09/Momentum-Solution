@@ -61,9 +61,6 @@ nifty=pd.merge(nifty,a,left_index=True, right_index=True)
 
 
 
-"""
-Halo
-"""
 
 
 
