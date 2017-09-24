@@ -60,7 +60,13 @@ nifty=pd.merge(nifty,a,left_index=True, right_index=True)
 
 
 
+"""
+This is going to be an important one
+"""
 
+"""
+Will need to add in monthly momentum calculations
+"""
 
 
 
